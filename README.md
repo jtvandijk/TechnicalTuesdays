@@ -26,7 +26,7 @@ The sessions will happen on Tuesday afternoons, 17h00-18h00, during Term 1. The 
  - 10/12/2019 Mapping
  - TBC Applying for Academic Jobs
 
-If you have any questions please email [j.t.vanijk@ucl.ac.uk](mailto:j.t.vanijk@ucl.ac.uk)
+If you have any questions please email [j.t.vandijk@ucl.ac.uk](mailto:j.t.vandijk@ucl.ac.uk)
 
 > Note: The schedule is provisional and could be subject to changes)
 > No registration is required, just come join!
