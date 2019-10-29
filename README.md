@@ -3,7 +3,7 @@
 _Maintainers : Bala, Markus, and Justin_
 
 This is repository for material concerning "Technical Tuesdays" Seminar, organised in Pearson G.02 at 17:00 every Tuesday. 
-Thank you all for who joined us last week, slides (and all future slides) are now available on GitHub.
+Thank you all for who have joined us in the previous sessions; slides can be found below.
 
 #### FAQ:
 
