@@ -15,10 +15,9 @@ The seminars are targeted at students and researchers with no, or only a little,
 
 The sessions will happen on Tuesday afternoons, 17h00-18h00, during Term 1. The first session is scheduled for October 15. All sessions will take place in Room G.02 in the Pearson Building, unless otherwise communicated.
 
-
  - 15/10/2019 Introduction - [Slides](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/00_introduction_to_computing.pdf)
  - 22/10/2019 (*nix) Shell - [Slides](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/01_unix_shell.pdf)
- - 29/10/2019 R Scripting [Slides](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/02_r_scripting.pdf)
+ - 29/10/2019 R Scripting - [Slides](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/02_r_scripting.pdf)
  - 12/11/2019 Python Programming
  - 19/11/2019 JavaScript (with NodeJS and D3)
  - 26/11/2019 Databases
@@ -28,7 +27,7 @@ The sessions will happen on Tuesday afternoons, 17h00-18h00, during Term 1. The 
 
 If you have any questions please email [j.t.vandijk@ucl.ac.uk](mailto:j.t.vandijk@ucl.ac.uk)
 
-> Note: The schedule is provisional and could be subject to changes)
+> Note: The schedule is provisional and could be subject to changes.
 > No registration is required, just come join!
 
 ---
