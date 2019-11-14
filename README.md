@@ -23,7 +23,6 @@ The sessions will happen on Tuesday afternoons, 17h00-18h00, during Term 1. The 
  - 26/11/2019 Databases
  - 03/12/2019 Version Control Systems
  - 10/12/2019 Mapping
- - TBC Applying for Academic Jobs
 
 If you have any questions please email [j.t.vandijk@ucl.ac.uk](mailto:j.t.vandijk@ucl.ac.uk)
 
