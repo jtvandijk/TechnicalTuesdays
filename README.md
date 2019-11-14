@@ -18,7 +18,7 @@ The sessions will happen on Tuesday afternoons, 17h00-18h00, during Term 1. The 
  - 15/10/2019 Introduction - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/00_introduction_to_computing.pdf)
  - 22/10/2019 (*nix) Shell - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/01_unix_shell.pdf)
  - 29/10/2019 R Scripting - [Slides](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/02_r_scripting.pdf)
- - 12/11/2019 Python Programming - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/03_python_programming.pdf)[\[iPython notebook\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/03_python_programming.ipynb)
+ - 12/11/2019 Python Programming - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/03_python_programming.pdf) [\[iPython notebook\]](https://github.com/jtvandijk/TechnicalTuesdays/blob/master/03_python_programming.ipynb)
  - 19/11/2019 JavaScript (with NodeJS and D3)
  - 26/11/2019 Databases
  - 03/12/2019 Version Control Systems
