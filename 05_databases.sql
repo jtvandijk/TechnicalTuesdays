@@ -1,4 +1,7 @@
 -- Connect to DBMS instance using 'psql -U bala'
+-- The sample land registry data is from http://prod.publicdata.landregistry.gov.uk.s3-website-eu-west-1.amazonaws.com/pp-complete.csv
+-- You can load the data into a database as described here - https://wiki.postgresql.org/wiki/Sample_Databases
+-- The sample dvd rental data is from http://www.postgresqltutorial.com/postgresql-sample-database/
 
 -- List databases
 \l
