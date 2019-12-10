@@ -22,7 +22,7 @@ The sessions will happen on Tuesday afternoons, 17h00-18h00, during Term 1. The 
  - 19/11/2019 JavaScript - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/04_javascript.pdf)
  - 26/11/2019 Databases - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/05_databases.pdf) [\[Demo\]](https://github.com/jtvandijk/TechnicalTuesdays/blob/master/05_databases.sql)
  - 03/12/2019 Version Control Systems - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/06_git.pdf)
- - 10/12/2019 Leaflet and LaTeX - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/07_leaflet.pdf)
+ - 10/12/2019 Leaflet and LaTeX - [\[Slides\]](https://github.com/jtvandijk/TechnicalTuesdays/raw/master/07_leaflet_latex.pdf)
  
 If you have any questions please email [j.t.vandijk@ucl.ac.uk](mailto:j.t.vandijk@ucl.ac.uk)
 
