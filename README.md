@@ -26,6 +26,11 @@ The sessions will happen on Tuesday afternoons, 17h00-18h00, during Term 1. The 
  
 If you have any questions please email [j.t.vandijk@ucl.ac.uk](mailto:j.t.vandijk@ucl.ac.uk)
 
+#### Extra resources:
+
+* [The Missing Semester of Your CS Education course at MIT](https://missing.csail.mit.edu)
+* [Software Carpentry](https://software-carpentry.org)
+
 #### Feedback:
 
 Please give us your feedback on these sessions [here - https://balamurugans.typeform.com/to/lVyuH8](https://balamurugans.typeform.com/to/lVyuH8).
