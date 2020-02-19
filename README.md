@@ -30,6 +30,7 @@ If you have any questions please email [j.t.vandijk@ucl.ac.uk](mailto:j.t.vandij
 
 * [The Missing Semester of Your CS Education course at MIT](https://missing.csail.mit.edu)
 * [Software Carpentry](https://software-carpentry.org)
+* [ExplainShell](https://www.explainshell.com) for understanding shell commands 
 
 #### Feedback:
 
