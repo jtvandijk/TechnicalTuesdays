@@ -34,7 +34,7 @@ If you have any questions please email [j.t.vandijk@ucl.ac.uk](mailto:j.t.vandij
 
 #### Feedback:
 
-Please give us your feedback on these sessions [here - https://balamurugans.typeform.com/to/lVyuH8](https://balamurugans.typeform.com/to/lVyuH8).
+Please give us your feedback on these sessions here. (form expired)
 
 > Note: The schedule is provisional and could be subject to changes.
 > No registration is required, just come join!
